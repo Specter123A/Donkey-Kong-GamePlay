@@ -13,4 +13,4 @@ Every player has a 100 points, and on every collision with the banana, points re
 
 Press the right key to see the player when game starts. 
 
-WebGL Link: https://play.unity.com/mg/other/webgl-builds-281157
+WebGL Link (UPDATED): https://play.unity.com/mg/other/webgl-builds-281157
